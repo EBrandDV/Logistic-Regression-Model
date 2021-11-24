@@ -1,2 +1,10 @@
 # Logistic-Regression-Model
-A logistic regression model that predicts if an olympic athlete wins a medal.
+Co-authors: 
+* AndreasAAU420: https://github.com/AndreasAAU420 
+* MrKahr: https://github.com/MrKahr 
+* SweetAndJuicy: https://github.com/SweetAndJuicy
+* ThorSkatka: https://github.com/ThorSkatka
+
+## Overview
+This model was made as a 1. semester project by AAU students. 
+A logistic regression model that predicts if an olympic athlete wins a medal. The data the model trains with, is in the form om pandas dataframes and comes from a CSV-file with stats on all athletes participating in the modern olympics: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results.
