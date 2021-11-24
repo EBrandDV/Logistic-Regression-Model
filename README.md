@@ -8,3 +8,7 @@ Co-authors:
 ## Overview
 This model is an ongoing project in the making for a data science BA course at Aalborg University. 
 A logistic regression model that predicts if an olympic athlete wins a medal. The data the model trains with, is in the form of pandas dataframes and comes from a CSV-file with stats on all athletes participating in the modern olympics: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results.
+
+## How to use
+* The file marked with 01 is used to apply suplimentary columns to the dataframe, and to prepair it for the model.
+* The file marked with 02 is the model, and trains on the dataframe it is given.
